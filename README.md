@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
+# Form Image
+![loginform](https://user-images.githubusercontent.com/49576577/87508976-2ebcc400-c68e-11ea-9283-9e71ec568838.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
